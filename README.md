@@ -1,2 +1,2 @@
 # simple_shell
-alx simple shell project
+alx simple shell group project
